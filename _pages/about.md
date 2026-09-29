@@ -21,7 +21,7 @@ I am Yuming Fu. My research interests include Self-driving Lab, World Model, Emb
 
 I received my M.Sc. degree from Chongqing Technology and Business University and my B.Eng. degree from Zhejiang University of Technology. I am currently a Ph.D. student at the CSU-JPG Lab, Central South University, under the supervision of Prof. Alex Jinpeng Wang.
 
-My research primarily focuses on situated instructional video generation for laboratory procedures, and on building benchmarks that test whether generated instructions are procedurally correct rather than merely visually plausible. I am also interested in world models and embodied AI, and I am actively exploring the intersection of these areas.
+My current work centers on computer vision and generative models, with a particular emphasis on evaluation and benchmarking. I am broadly interested in what makes a generative model trustworthy, and I am actively exploring the intersection of generative modeling, world models, and embodied AI.
 
 Find my full publication record on <a href='https://scholar.google.com/citations?user=cJk7eIUAAAAJ'>Google Scholar</a> (<span id='total_cit'>—</span> citations).
 
