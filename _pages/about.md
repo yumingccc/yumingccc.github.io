@@ -91,12 +91,10 @@ H. Qin\*, **Yuming Fu**\*, J. Chen, Q. Song†, Y. Li†, M. A. El-Yacoubi, D. Z
 - [GANet: Gabor Attention Aggregation Network for Palmvein Identification](https://doi.org/10.1109/HSI61632.2024.10613571), H. Liao, X. Jin, H. Zhu, **Yuming Fu**, M. A. El-Yacoubi, H. Qin†, **HSI 2024.07** [\[Paper\]](https://doi.org/10.1109/HSI61632.2024.10613571)
 
 # 🎖 Honors and Awards
-- *2025.10* National Scholarship for Graduate Students, Ministry of Education of China.
+- *2025.10* National Scholarship for Graduate Students.
 - *2024.12* National Silver Award, the 14th "Challenge Cup" Qinchuangyuan China College Students' Entrepreneurship Competition.
-- *2025.10* First-Class Graduate Academic Scholarship, Chongqing Technology and Business University.
-- *2024.11* Second-Class Graduate Academic Scholarship, Chongqing Technology and Business University.
-- *2023.11* Third-Class Graduate Academic Scholarship, Chongqing Technology and Business University.
-- Principal Investigator, Chongqing Graduate Student Research Innovation Project, "Robust Vein Recognition System Based on Deep Adversarial Defense" (completed).
+- *2025.10* First-Class Graduate Academic Scholarship.
+- *2024.11* Second-Class Graduate Academic Scholarship.
 
 # 📖 Educations
 - *2026.09 - now*, Ph.D. student, Central South University, Changsha, China.
