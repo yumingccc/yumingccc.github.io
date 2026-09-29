@@ -43,7 +43,7 @@ Find my full publication record on <a href='https://scholar.google.com/citations
 
 ICLR 2027 (under review)
 
-**Yuming Fu**, Weijia Wu, Jing Chen, Jiahao Tang, Feifei Chen, Hongyu Zhu, Xin Jin, Alex Jinpeng Wang
+**Yuming Fu**\*, Weijia Wu\*, Jing Chen\*, Jiahao Tang, Feifei Chen, Hongyu Zhu, Xin Jin, Alex Jinpeng Wang†
 
 [**Project Page**](https://csu-jpg.github.io/LabInstruct.github.io/) [**Dataset**](https://huggingface.co/datasets/CSU-JPG/LabInstruct)
 </div>
@@ -56,7 +56,7 @@ ICLR 2027 (under review)
 
 arXiv preprint, 2026.07
 
-H. Li, **Yuming Fu**, Q. Song, H. Liao, J. Chen, M. A. El-Yacoubi, Y. Liu, S. Ma, X. Jin
+H. Li\*, **Yuming Fu**\*, Q. Song\*, H. Liao, J. Chen, M. A. El-Yacoubi, Y. Liu, S. Ma†, X. Jin†
 
 [**arXiv**](https://arxiv.org/abs/2607.02271) [**Code**](https://github.com/Advance-VeinTech-Innovators/AGVBench)
 </div>
@@ -69,7 +69,7 @@ H. Li, **Yuming Fu**, Q. Song, H. Liao, J. Chen, M. A. El-Yacoubi, Y. Liu, S. Ma
 
 IEEE TIFS, 2025.07
 
-H. Qin\*, **Yuming Fu**\*, J. Chen, Q. Song, Y. Li, M. A. El-Yacoubi, D. Zhong
+H. Qin\*, **Yuming Fu**\*, J. Chen, Q. Song†, Y. Li†, M. A. El-Yacoubi, D. Zhong
 
 [**Paper**](https://doi.org/10.1109/TIFS.2025.3592561)
 </div>
