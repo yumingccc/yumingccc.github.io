@@ -19,9 +19,9 @@ redirect_from:
 
 I am Yuming Fu. My research interests include Self-driving Lab, World Model, Embodied AI, and Computer Vision.
 
-I received my M.Sc. degree from Chongqing Technology and Business University and my B.Eng. degree from Zhejiang University of Technology. I am currently a Ph.D. student at the CSU-JPG Lab, Central South University, under the supervision of Prof. Alex Jinpeng Wang.
+I received my M.Sc. degree from Chongqing Technology and Business University and my B.Eng. degree from Zhejiang University of Technology. I am currently a Ph.D. student at the CSU-JPG Lab, Central South University, under the supervision of <a href='https://fingerrec.github.io/'>Prof. Alex Jinpeng Wang</a>.
 
-My current work centers on computer vision and generative models, with a particular emphasis on evaluation and benchmarking. I am broadly interested in what makes a generative model trustworthy, and I am actively exploring the intersection of generative modeling, world models, and embodied AI.
+My current work centers on computer vision and generative models, with a focus on evaluation. I am broadly interested in what makes a generative model trustworthy, and I am actively exploring the intersection of generative modeling, world models, and embodied AI.
 
 Find my full publication record on <a href='https://scholar.google.com/citations?user=cJk7eIUAAAAJ'>Google Scholar</a> (<span id='total_cit'>—</span> citations).
 
@@ -79,15 +79,15 @@ H. Qin\*, **Yuming Fu**\*, J. Chen, Q. Song†, Y. Li†, M. A. El-Yacoubi, D. Z
 
 <i>* indicates equal contribution.</i>
 
-- [LabInstruct: Benchmarking Situated Instructional Video Generation for Lab Procedures](https://csu-jpg.github.io/LabInstruct.github.io/), **Yuming Fu**, W. Wu, J. Chen, J. Tang, F. Chen, H. Zhu, X. Jin, A. J. Wang, **ICLR 2027** [\[Project Page\]](https://csu-jpg.github.io/LabInstruct.github.io/) [\[Dataset\]](https://huggingface.co/datasets/CSU-JPG/LabInstruct)
-- [AGVBench: A Reliability-Oriented Benchmark of Data Augmentation for Vein Recognition](https://arxiv.org/abs/2607.02271), H. Li, **Yuming Fu**, Q. Song, H. Liao, J. Chen, M. A. El-Yacoubi, Y. Liu, S. Ma, X. Jin, **arXiv 2026.07** [\[arXiv\]](https://arxiv.org/abs/2607.02271) [\[Code\]](https://github.com/Advance-VeinTech-Innovators/AGVBench)
-- [Physiological Prior-Driven Label Enhancement for Cross-Subject EEG Emotion Recognition](https://arxiv.org/abs/2607.15566), H. Zhu, L. Chen, **Yuming Fu**, M. A. El-Yacoubi, M. Shang, **arXiv 2026.07** [\[arXiv\]](https://arxiv.org/abs/2607.15566)
-- [MsMemoryGAN: A Multiscale Memory GAN for Palm-Vein Adversarial Purification](https://doi.org/10.1109/TCYB.2026.3668829), H. Qin, **Yuming Fu**, H. Zhang, M. A. El-Yacoubi, X. Gao, Q. Song, J. Wang, **IEEE TCYB 2026.05** [\[Paper\]](https://doi.org/10.1109/TCYB.2026.3668829)
-- [Neural Architecture Search-Based Global–Local Vision Mamba for Palm-Vein Recognition](https://doi.org/10.1109/TIFS.2026.3679936), H. Qin\*, **Yuming Fu**\*, J. Chen, M. A. El-Yacoubi, X. Gao, F. Xi, **IEEE TIFS 2026.04** [\[Paper\]](https://doi.org/10.1109/TIFS.2026.3679936)
-- [Lightweight Vein Recognition for Secure IoT Edge Devices: A Channel-wise Attention Approach for Big Data Biometrics](https://doi.org/10.1145/3779153.3779161), **Yuming Fu**, J. Chen, H. Li, Q. Song, F. Xi, H. Qin, S. Yang, **BDIOT 2025.11** [\[Paper\]](https://doi.org/10.1145/3779153.3779161)
+- [LabInstruct: Benchmarking Situated Instructional Video Generation for Lab Procedures](https://csu-jpg.github.io/LabInstruct.github.io/), **Yuming Fu**\*, W. Wu\*, J. Chen\*, J. Tang, F. Chen, H. Zhu, X. Jin, A. J. Wang†, **ICLR 2027** [\[Project Page\]](https://csu-jpg.github.io/LabInstruct.github.io/) [\[Dataset\]](https://huggingface.co/datasets/CSU-JPG/LabInstruct)
+- [AGVBench: A Reliability-Oriented Benchmark of Data Augmentation for Vein Recognition](https://arxiv.org/abs/2607.02271), H. Li\*, **Yuming Fu**\*, Q. Song\*, H. Liao, J. Chen, M. A. El-Yacoubi, Y. Liu, S. Ma†, X. Jin†, **arXiv 2026.07** [\[arXiv\]](https://arxiv.org/abs/2607.02271) [\[Code\]](https://github.com/Advance-VeinTech-Innovators/AGVBench)
+- [Physiological Prior-Driven Label Enhancement for Cross-Subject EEG Emotion Recognition](https://arxiv.org/abs/2607.15566), H. Zhu, L. Chen†, **Yuming Fu**, M. A. El-Yacoubi, M. Shang†, **arXiv 2026.07** [\[arXiv\]](https://arxiv.org/abs/2607.15566)
+- [MsMemoryGAN: A Multiscale Memory GAN for Palm-Vein Adversarial Purification](https://doi.org/10.1109/TCYB.2026.3668829), H. Qin, **Yuming Fu**, H. Zhang†, M. A. El-Yacoubi, X. Gao, Q. Song†, J. Wang, **IEEE TCYB 2026.05** [\[Paper\]](https://doi.org/10.1109/TCYB.2026.3668829)
+- [Neural Architecture Search-Based Global–Local Vision Mamba for Palm-Vein Recognition](https://doi.org/10.1109/TIFS.2026.3679936), H. Qin\*†, **Yuming Fu**\*, J. Chen, M. A. El-Yacoubi, X. Gao, F. Xi, **IEEE TIFS 2026.04** [\[Paper\]](https://doi.org/10.1109/TIFS.2026.3679936)
+- [Lightweight Vein Recognition for Secure IoT Edge Devices: A Channel-wise Attention Approach for Big Data Biometrics](https://doi.org/10.1145/3779153.3779161), **Yuming Fu**, J. Chen, H. Li, Q. Song, F. Xi†, H. Qin, S. Yang, **BDIOT 2025.11** [\[Paper\]](https://doi.org/10.1145/3779153.3779161)
 - [ScaleMix: Enhancing fNIRS Classification with Scaling and Mixup Augmentation for Data-Driven BCI Applications](https://doi.org/10.1145/3779153.3779180), C. Gao, Z. Rao, **Yuming Fu**, J. Chen, M. Huang, Q. Song, **BDIOT 2025.11** [\[Paper\]](https://doi.org/10.1145/3779153.3779180)
-- [WTxGRN: Wavelet Transform-Based Extended Gated Recurrent Network for Palm Vein Recognition](https://doi.org/10.1109/TIFS.2025.3592561), H. Qin\*, **Yuming Fu**\*, J. Chen, Q. Song, Y. Li, M. A. El-Yacoubi, D. Zhong, **IEEE TIFS 2025.07** [\[Paper\]](https://doi.org/10.1109/TIFS.2025.3592561)
-- [TMemAE: Handwriting Abnormality Analysis for Parkinson Disease](https://doi.org/10.1145/3697355.3697363), J. Chen, **Yuming Fu**, H. Qin, Q. Song, Y. Zhou, S. Fong, **BDIOT 2024.09** [\[Paper\]](https://doi.org/10.1145/3697355.3697363)
+- [WTxGRN: Wavelet Transform-Based Extended Gated Recurrent Network for Palm Vein Recognition](https://doi.org/10.1109/TIFS.2025.3592561), H. Qin\*, **Yuming Fu**\*, J. Chen, Q. Song†, Y. Li†, M. A. El-Yacoubi, D. Zhong, **IEEE TIFS 2025.07** [\[Paper\]](https://doi.org/10.1109/TIFS.2025.3592561)
+- [TMemAE: Handwriting Abnormality Analysis for Parkinson Disease](https://doi.org/10.1145/3697355.3697363), J. Chen, **Yuming Fu**, H. Qin†, Q. Song, Y. Zhou, S. Fong, **BDIOT 2024.09** [\[Paper\]](https://doi.org/10.1145/3697355.3697363)
 - [GANet: Gabor Attention Aggregation Network for Palmvein Identification](https://doi.org/10.1109/HSI61632.2024.10613571), H. Liao, X. Jin, H. Zhu, **Yuming Fu**, M. A. El-Yacoubi, H. Qin, **HSI 2024.07** [\[Paper\]](https://doi.org/10.1109/HSI61632.2024.10613571)
 
 # 🎖 Honors and Awards
