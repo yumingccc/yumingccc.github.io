@@ -23,7 +23,7 @@ During my master's I worked on **palm-vein recognition**, a contactless biometri
 
 I am now working on **situated instructional video generation** for laboratory procedures. My first doctoral project, [LabInstruct](https://csu-jpg.github.io/LabInstruct.github.io/), asks whether image-to-video models can communicate real experimental procedures: 204 tasks across 5 scientific disciplines, each anchored to a real reference execution and annotated with objects, actions, contacts, and state transitions. Evaluating eight frontier models shows that visually plausible generations are frequently *procedurally* incorrect — a gap that matters because these videos are meant to be acted on, not merely watched.
 
-My research interests include video generation and evaluation, multimodal benchmarks, biometric recognition, and adversarial robustness. I am always glad to hear from people working on related problems.
+My research interests include self-driving labs, world models, embodied AI, and computer vision. I am always glad to hear from people working on related problems.
 
 My publication record is on <a href='https://scholar.google.com/citations?user=cJk7eIUAAAAJ'>Google Scholar</a> — total citations <strong><span id='total_cit'>—</span></strong>.
 

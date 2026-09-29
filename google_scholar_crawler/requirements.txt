@@ -1,2 +1,6 @@
 jsonpickle==1.4.2
 scholarly==1.5.1
+# scholarly 1.5.1 imports bibtexparser.bibdatabase, which only exists in
+# bibtexparser 1.x. Without this pin pip resolves 2.x and the crawler dies on
+# import. Not listed in scholarly's own metadata, so it has to be pinned here.
+bibtexparser<2
