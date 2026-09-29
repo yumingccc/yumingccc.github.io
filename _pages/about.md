@@ -19,7 +19,7 @@ redirect_from:
 
 I am Yuming Fu. My research interests include Self-driving Lab, World Model, Embodied AI, and Computer Vision.
 
-I received my M.Sc. degree from Chongqing Technology and Business University and my B.Eng. degree from Zhejiang University of Technology. I am currently a Ph.D. student at the CSU-JPG Lab, Central South University, under the supervision of <a href='https://fingerrec.github.io/'>Prof. Alex Jinpeng Wang</a>.
+I received my M.Sc. degree from Chongqing Technology and Business University and my B.Eng. degree from Zhejiang University of Technology. I am currently a Ph.D. student at the <a href='https://csu-jpg.github.io/'>CSU-JPG Lab</a>, Central South University, under the supervision of <a href='https://fingerrec.github.io/'>Prof. Alex Jinpeng Wang</a>.
 
 My current work centers on computer vision and generative models, with a focus on evaluation. I am broadly interested in what makes a generative model trustworthy, and I am actively exploring the intersection of generative modeling, world models, and embodied AI.
 
