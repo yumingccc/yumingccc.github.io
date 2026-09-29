@@ -17,42 +17,59 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Ph.D. student at Central South University. My research approaches a single question from two directions: **when a visual model is wrong, how would we know?**
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+During my master's I worked on **palm-vein recognition**, a contactless biometric modality whose images are low-contrast and easily degraded by illumination and occlusion. I designed wavelet-based and neural-architecture-search-based networks for discriminative vein feature extraction, and a multiscale memory GAN that purifies adversarial samples before they reach the classifier. This work appeared in IEEE TIFS (2025, 2026) and IEEE TCYB (2026), and I am a co-first author on both TIFS papers. I also contributed to self-supervised Parkinson's disease detection from handwriting dynamics.
 
+I am now working on **situated instructional video generation** for laboratory procedures. My first doctoral project, [LabInstruct](https://csu-jpg.github.io/LabInstruct.github.io/), asks whether image-to-video models can communicate real experimental procedures: 204 tasks across 5 scientific disciplines, each anchored to a real reference execution and annotated with objects, actions, contacts, and state transitions. Evaluating eight frontier models shows that visually plausible generations are frequently *procedurally* incorrect — a gap that matters because these videos are meant to be acted on, not merely watched.
+
+My research interests include video generation and evaluation, multimodal benchmarks, biometric recognition, and adversarial robustness. I am always glad to hear from people working on related problems.
+
+My publication record is on <a href='https://scholar.google.com/citations?user=cJk7eIUAAAAJ'>Google Scholar</a> — total citations <strong><span id='total_cit'>—</span></strong>.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.09*: &nbsp;Started my Ph.D. at Central South University.
+- *2026.05*: &nbsp;"MsMemoryGAN: A Multiscale Memory GAN for Palm-Vein Adversarial Purification" published in IEEE Transactions on Cybernetics.
+- *2026*: &nbsp;"Neural Architecture Search-Based Global–Local Vision Mamba for Palm-Vein Recognition" published in IEEE Transactions on Information Forensics and Security.
+- *2025.10*: &nbsp;Awarded the National Scholarship for Graduate Students.
+- *2025*: &nbsp;"WTxGRN: Wavelet Transform-Based Extended Gated Recurrent Network for Palm Vein Recognition" published in IEEE Transactions on Information Forensics and Security.
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/labinstruct.jpg' alt="LabInstruct benchmark overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[LabInstruct: Benchmarking Situated Instructional Video Generation for Lab Procedures](https://csu-jpg.github.io/LabInstruct.github.io/)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yuming Fu**, Weijia Wu, Jing Chen, Jiahao Tang, Feifei Chen, Hongyu Zhu, Xin Jin, Alex Jinpeng Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project Page**](https://csu-jpg.github.io/LabInstruct.github.io/)
+
+- The first benchmark for situated instructional video generation in real laboratories: 204 tasks across 5 scientific disciplines, with real reference executions and structured annotations of objects, actions, contacts, and state transitions.
+- Evaluating 8 frontier image-to-video models shows that visually plausible generations frequently remain procedurally incorrect, exposing a gap between visual realism and the reliability required for experimental instruction.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [WTxGRN: Wavelet Transform-Based Extended Gated Recurrent Network for Palm Vein Recognition](https://doi.org/10.1109/TIFS.2025.3592561), H. Qin\*, **Yuming Fu**\*, J. Chen, Q. Song, Y. Li, M. A. El-Yacoubi, D. Zhong, **IEEE TIFS 2025**
+- [Neural Architecture Search-Based Global–Local Vision Mamba for Palm-Vein Recognition](https://doi.org/10.1109/TIFS.2026.3679936), H. Qin\*, **Yuming Fu**\*, J. Chen, M. A. El-Yacoubi, X. Gao, F. Xi, **IEEE TIFS 2026**
+- [MsMemoryGAN: A Multiscale Memory GAN for Palm-Vein Adversarial Purification](https://doi.org/10.1109/TCYB.2026.3668829), H. Qin, **Yuming Fu**, H. Zhang, M. A. El-Yacoubi, X. Gao, Q. Song, J. Wang, **IEEE TCYB 2026**
+- WTGMT: A Wavelet-Enhanced Group Memory-augmented Transformer for Self-supervised Parkinson's Disease Detection from Handwriting, Q. Song, J. Chen, **Yuming Fu**, et al., **Neural Networks** (under review)
+
+<small>\* Equal contribution.</small>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10* National Scholarship for Graduate Students, Ministry of Education of China.
+- *2024.12* National Silver Award, the 14th "Challenge Cup" Qinchuangyuan China College Students' Entrepreneurship Competition.
+- *2025.10* First-Class Graduate Academic Scholarship, Chongqing Technology and Business University.
+- *2024.11* Second-Class Graduate Academic Scholarship, Chongqing Technology and Business University.
+- *2023.11* Third-Class Graduate Academic Scholarship, Chongqing Technology and Business University.
+- *2024 - 2025* Principal Investigator, Chongqing Graduate Student Research Innovation Project, "Robust Vein Recognition System Based on Deep Adversarial Defense" (completed).
+
+# 📜 Patents
+- **A Palm-Vein Image Anti-Spoofing Method Based on Multi-Scale Memory-Enhanced Generative Adversarial Networks**, Chinese Invention Patent, Application No. 2024108644551 (preliminary examination passed).
+- **A Transformer-Based Memory Autoencoder Anomaly Detection Algorithm**, Chinese Invention Patent, Application No. 2024109661268 (preliminary examination passed).
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2026.09 - now*, Ph.D. student, Central South University, Changsha, China.
+- *2023.09 - 2026.06*, M.S. in Electronic Information, Chongqing Technology and Business University, Chongqing, China.
+- *2018.09 - 2022.06*, B.Eng. in Internet of Things Engineering, Zhejiang University of Technology, Hangzhou, China.
