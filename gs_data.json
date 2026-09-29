@@ -1,0 +1,180 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "publications",
+    "indices",
+    "counts"
+  ],
+  "scholar_id": "cJk7eIUAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Yuming Fu",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=cJk7eIUAAAAJ&citpid=3",
+  "affiliation": "Central South University",
+  "organization": 15935225337923288879,
+  "interests": [
+    "Self-driving Lab",
+    "World Model",
+    "Embodied AI",
+    "Computer Vision"
+  ],
+  "email_domain": "@csu.edu.cn",
+  "citedby": 29,
+  "publications": {
+    "cJk7eIUAAAAJ:d1gkVwhDpl0C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Neural Architecture Search-Based Global–Local Vision Mamba for Palm-Vein Recognition",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "cJk7eIUAAAAJ:d1gkVwhDpl0C",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4687637549220101749",
+      "cites_id": [
+        "4687637549220101749"
+      ]
+    },
+    "cJk7eIUAAAAJ:2osOgNQ5qMEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Wtxgrn: Wavelet transform-based extended gated recurrent network for palm vein recognition",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "cJk7eIUAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1575911083580567888",
+      "cites_id": [
+        "1575911083580567888"
+      ]
+    },
+    "cJk7eIUAAAAJ:u-x6o8ySG0sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GAN et: Gabor attention aggregation network for palmvein identification",
+        "pub_year": "2024"
+      },
+      "filled": false,
+      "author_pub_id": "cJk7eIUAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3651777995332814850",
+      "cites_id": [
+        "3651777995332814850"
+      ]
+    },
+    "cJk7eIUAAAAJ:UeHWp8X0CEIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MsMemoryGAN: A Multiscale Memory GAN for Palm-Vein Adversarial Purification",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "cJk7eIUAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7990229358852967971",
+      "cites_id": [
+        "7990229358852967971"
+      ]
+    },
+    "cJk7eIUAAAAJ:u5HHmVD_uO8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MsMemoryGAN: A Multi-scale Memory GAN for Palm-vein Adversarial Purification",
+        "pub_year": "2024"
+      },
+      "filled": false,
+      "author_pub_id": "cJk7eIUAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2379869768136059298",
+      "cites_id": [
+        "2379869768136059298"
+      ]
+    },
+    "cJk7eIUAAAAJ:Y0pCki6q_DkC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Physiological Prior-Driven Label Enhancement for Cross-Subject EEG Emotion Recognition",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "cJk7eIUAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15246074901552882754",
+      "cites_id": [
+        "15246074901552882754"
+      ]
+    },
+    "cJk7eIUAAAAJ:IjCSPb-OGe4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "AGVBench: A Reliability-Oriented Benchmark of Data Augmentation for Vein Recognition",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "cJk7eIUAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    "cJk7eIUAAAAJ:zYLM7Y9cAGgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lightweight Vein Recognition for Secure IoT Edge Devices: A Channel-wise Attention Approach for Big Data Biometrics",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "cJk7eIUAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 0
+    },
+    "cJk7eIUAAAAJ:qjMakFHDy7sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ScaleMix: Enhancing fNIRS Classification with Scaling and Mixup Augmentation for Data-Driven BCI Applications",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "cJk7eIUAAAAJ:qjMakFHDy7sC",
+      "num_citations": 0
+    },
+    "cJk7eIUAAAAJ:9yKSN-GCB0IC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "TMemAE: Handwriting Abnormality Analysis for Parkinson Disease",
+        "pub_year": "2024"
+      },
+      "filled": false,
+      "author_pub_id": "cJk7eIUAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 0
+    },
+    "cJk7eIUAAAAJ:Tyk-4Ss8FVUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MambaNVC: Neural-Guided State-Space Modeling of Hemodynamic Dynamics for EEG-fNIRS Multimodal Decoding"
+      },
+      "filled": false,
+      "author_pub_id": "cJk7eIUAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 0
+    }
+  },
+  "citedby5y": 29,
+  "hindex": 3,
+  "hindex5y": 3,
+  "i10index": 2,
+  "i10index5y": 2,
+  "cites_per_year": {
+    "2024": 1,
+    "2025": 8,
+    "2026": 20
+  },
+  "updated": "2026-09-30 00:17:58.015684"
+}
