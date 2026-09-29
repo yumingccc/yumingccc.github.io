@@ -63,7 +63,7 @@ My publication record is on <a href='https://scholar.google.com/citations?user=c
 - *2025.10* First-Class Graduate Academic Scholarship, Chongqing Technology and Business University.
 - *2024.11* Second-Class Graduate Academic Scholarship, Chongqing Technology and Business University.
 - *2023.11* Third-Class Graduate Academic Scholarship, Chongqing Technology and Business University.
-- *2024 - 2025* Principal Investigator, Chongqing Graduate Student Research Innovation Project, "Robust Vein Recognition System Based on Deep Adversarial Defense" (completed).
+- Principal Investigator, Chongqing Graduate Student Research Innovation Project, "Robust Vein Recognition System Based on Deep Adversarial Defense" (completed).
 
 # 📜 Patents
 - **A Palm-Vein Image Anti-Spoofing Method Based on Multi-Scale Memory-Enhanced Generative Adversarial Networks**, Chinese Invention Patent, Application No. 2024108644551 (preliminary examination passed).
