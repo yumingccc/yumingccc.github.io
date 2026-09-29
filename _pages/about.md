@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student at Central South University. My research approaches a single question from two directions: **when a visual model is wrong, how would we know?**
+I am a Ph.D. student at Central South University, advised by Alex Jinpeng Wang. My research approaches a single question from two directions: **when a visual model is wrong, how would we know?**
 
 During my master's I worked on **palm-vein recognition**, a contactless biometric modality whose images are low-contrast and easily degraded by illumination and occlusion. I designed wavelet-based and neural-architecture-search-based networks for discriminative vein feature extraction, and a multiscale memory GAN that purifies adversarial samples before they reach the classifier. This work appeared in IEEE TIFS (2025, 2026) and IEEE TCYB (2026), and I am a co-first author on both TIFS papers. I also contributed to self-supervised Parkinson's disease detection from handwriting dynamics.
 
@@ -36,14 +36,16 @@ My publication record is on <a href='https://scholar.google.com/citations?user=c
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/labinstruct.jpg' alt="LabInstruct benchmark overview" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2027</div><img src='images/labinstruct.jpg' alt="LabInstruct benchmark overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LabInstruct: Benchmarking Situated Instructional Video Generation for Lab Procedures](https://csu-jpg.github.io/LabInstruct.github.io/)
 
 **Yuming Fu**, Weijia Wu, Jing Chen, Jiahao Tang, Feifei Chen, Hongyu Zhu, Xin Jin, Alex Jinpeng Wang
 
-[**Project Page**](https://csu-jpg.github.io/LabInstruct.github.io/)
+[**Project Page**](https://csu-jpg.github.io/LabInstruct.github.io/) / [**Dataset**](https://huggingface.co/datasets/CSU-JPG/LabInstruct)
+
+*Under review at ICLR 2027; arXiv preprint in moderation.*
 
 - The first benchmark for situated instructional video generation in real laboratories: 204 tasks across 5 scientific disciplines, with real reference executions and structured annotations of objects, actions, contacts, and state transitions.
 - Evaluating 8 frontier image-to-video models shows that visually plausible generations frequently remain procedurally incorrect, exposing a gap between visual realism and the reliability required for experimental instruction.
@@ -53,7 +55,6 @@ My publication record is on <a href='https://scholar.google.com/citations?user=c
 - [WTxGRN: Wavelet Transform-Based Extended Gated Recurrent Network for Palm Vein Recognition](https://doi.org/10.1109/TIFS.2025.3592561), H. Qin\*, **Yuming Fu**\*, J. Chen, Q. Song, Y. Li, M. A. El-Yacoubi, D. Zhong, **IEEE TIFS 2025**
 - [Neural Architecture Search-Based Global–Local Vision Mamba for Palm-Vein Recognition](https://doi.org/10.1109/TIFS.2026.3679936), H. Qin\*, **Yuming Fu**\*, J. Chen, M. A. El-Yacoubi, X. Gao, F. Xi, **IEEE TIFS 2026**
 - [MsMemoryGAN: A Multiscale Memory GAN for Palm-Vein Adversarial Purification](https://doi.org/10.1109/TCYB.2026.3668829), H. Qin, **Yuming Fu**, H. Zhang, M. A. El-Yacoubi, X. Gao, Q. Song, J. Wang, **IEEE TCYB 2026**
-- WTGMT: A Wavelet-Enhanced Group Memory-augmented Transformer for Self-supervised Parkinson's Disease Detection from Handwriting, Q. Song, J. Chen, **Yuming Fu**, et al., **Neural Networks** (under review)
 
 <small>\* Equal contribution.</small>
 
@@ -64,10 +65,6 @@ My publication record is on <a href='https://scholar.google.com/citations?user=c
 - *2024.11* Second-Class Graduate Academic Scholarship, Chongqing Technology and Business University.
 - *2023.11* Third-Class Graduate Academic Scholarship, Chongqing Technology and Business University.
 - Principal Investigator, Chongqing Graduate Student Research Innovation Project, "Robust Vein Recognition System Based on Deep Adversarial Defense" (completed).
-
-# 📜 Patents
-- **A Palm-Vein Image Anti-Spoofing Method Based on Multi-Scale Memory-Enhanced Generative Adversarial Networks**, Chinese Invention Patent, Application No. 2024108644551 (preliminary examination passed).
-- **A Transformer-Based Memory Autoencoder Anomaly Detection Algorithm**, Chinese Invention Patent, Application No. 2024109661268 (preliminary examination passed).
 
 # 📖 Educations
 - *2026.09 - now*, Ph.D. student, Central South University, Changsha, China.

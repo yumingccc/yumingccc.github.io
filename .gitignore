@@ -1,3 +1,5 @@
 _site/
 push.sh
 .DS_Store
+# full-resolution copy of the avatar, kept locally only
+images/person_original.jpg
