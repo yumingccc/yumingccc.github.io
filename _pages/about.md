@@ -89,8 +89,8 @@ H. Qin\*, **Yuming Fu**\*, J. Chen, Q. Song†, Y. Li†, M. A. El-Yacoubi, D. Z
 
 # 🎖 Honors and Awards
 - *2025.10* National Scholarship for Graduate Students.
-- *2024.12* National Silver Award, the 14th "Challenge Cup" Qinchuangyuan China College Students' Entrepreneurship Competition.
 - *2025.10* First-Class Graduate Academic Scholarship.
+- *2024.12* National Silver Award, the 14th "Challenge Cup" Qinchuangyuan China College Students' Entrepreneurship Competition.
 - *2024.11* Second-Class Graduate Academic Scholarship.
 
 # 📖 Educations
