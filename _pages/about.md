@@ -85,10 +85,7 @@ H. Qin\*, **Yuming Fu**\*, J. Chen, Q. Song†, Y. Li†, M. A. El-Yacoubi, D. Z
 - [MsMemoryGAN: A Multiscale Memory GAN for Palm-Vein Adversarial Purification](https://doi.org/10.1109/TCYB.2026.3668829), H. Qin, **Yuming Fu**, H. Zhang†, M. A. El-Yacoubi, X. Gao, Q. Song†, J. Wang, **IEEE TCYB 2026.05** [\[Paper\]](https://doi.org/10.1109/TCYB.2026.3668829)
 - [Neural Architecture Search-Based Global–Local Vision Mamba for Palm-Vein Recognition](https://doi.org/10.1109/TIFS.2026.3679936), H. Qin\*†, **Yuming Fu**\*, J. Chen, M. A. El-Yacoubi, X. Gao, F. Xi, **IEEE TIFS 2026.04** [\[Paper\]](https://doi.org/10.1109/TIFS.2026.3679936)
 - [Lightweight Vein Recognition for Secure IoT Edge Devices: A Channel-wise Attention Approach for Big Data Biometrics](https://doi.org/10.1145/3779153.3779161), **Yuming Fu**, J. Chen, H. Li, Q. Song, F. Xi†, H. Qin, S. Yang, **BDIOT 2025.11** [\[Paper\]](https://doi.org/10.1145/3779153.3779161)
-- [ScaleMix: Enhancing fNIRS Classification with Scaling and Mixup Augmentation for Data-Driven BCI Applications](https://doi.org/10.1145/3779153.3779180), C. Gao, Z. Rao, **Yuming Fu**, J. Chen, M. Huang, Q. Song†, **BDIOT 2025.11** [\[Paper\]](https://doi.org/10.1145/3779153.3779180)
 - [WTxGRN: Wavelet Transform-Based Extended Gated Recurrent Network for Palm Vein Recognition](https://doi.org/10.1109/TIFS.2025.3592561), H. Qin\*, **Yuming Fu**\*, J. Chen, Q. Song†, Y. Li†, M. A. El-Yacoubi, D. Zhong, **IEEE TIFS 2025.07** [\[Paper\]](https://doi.org/10.1109/TIFS.2025.3592561)
-- [TMemAE: Handwriting Abnormality Analysis for Parkinson Disease](https://doi.org/10.1145/3697355.3697363), J. Chen, **Yuming Fu**, H. Qin†, Q. Song, Y. Zhou, S. Fong, **BDIOT 2024.09** [\[Paper\]](https://doi.org/10.1145/3697355.3697363)
-- [GANet: Gabor Attention Aggregation Network for Palmvein Identification](https://doi.org/10.1109/HSI61632.2024.10613571), H. Liao, X. Jin, H. Zhu, **Yuming Fu**, M. A. El-Yacoubi, H. Qin†, **HSI 2024.07** [\[Paper\]](https://doi.org/10.1109/HSI61632.2024.10613571)
 
 # 🎖 Honors and Awards
 - *2025.10* National Scholarship for Graduate Students.
